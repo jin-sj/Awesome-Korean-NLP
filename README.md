@@ -52,7 +52,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - PNU Spell Checker [[link](http://speller.cs.pusan.ac.kr/)]
 - Naver Spell Checker [[link](https://search.naver.com/search.naver?where=nexearch&sm=tab_jum&ie=utf8&query=%ED%95%9C%EA%B8%80+%EB%A7%9E%EC%B6%A4%EB%B2%95+%EA%B2%80%EC%82%AC%EA%B8%B0)]
 - Daum Spell Checker [[link](http://alldic.daum.net/grammar_checker.do)]
-- hunspell-ko [[link](https://github.com/changwoo/hunspell-dict-ko)]
+- hunspell-ko [[link](https://github.com/spellcheck-ko/hunspell-dict-ko)]
 
 ### 1.4. Syntax Parser / 구문 분석기
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
